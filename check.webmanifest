@@ -1,0 +1,14 @@
+{
+    "name": "MY PET STORE PWA",
+    "description": "my online pet store",
+    "icons": [
+        {
+            "src": "muzzle.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#000000"
+}
