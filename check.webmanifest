@@ -8,7 +8,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "week7.html",
+    "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#000000"
 }
