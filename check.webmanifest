@@ -1,0 +1,14 @@
+{
+    "name": "MY PET STORE PWA",
+    "description": "my online pet store",
+    "icons": [
+        {
+            "src": "giraffe.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#ffffff"
+}
