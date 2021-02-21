@@ -3,9 +3,9 @@
     "description": "my online pet store",
     "icons": [
         {
-            "src": "muzzle.png",
+            "src": "giraffe.jpg",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/jpg"
         }
     ],
     "start_url": "index.html",
